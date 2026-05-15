@@ -89,10 +89,6 @@ I enjoy learning new technologies, improving my development skills, and collabor
 </p>
 
 ---
-
 ### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aryancodes-03/aryancodes-03/output/snake.svg" alt="Snake animation" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/aryancodes-03/aryancodes-03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></p>
 
