@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Aryan Pandey</h1>
+<h1 align="center">Hey this is Aryan Pandey</h1>
 
 <h3 align="center">
 Web Development Enthusiast 🚀 <br>
-Learning & Contributing to Open Source through GitHub
+Learning to Contribute to Open Source through GitHub
 </h3>
 
 ---
@@ -12,10 +12,10 @@ Learning & Contributing to Open Source through GitHub
 
 ### 👨‍💻 About Me
 
-I am **Aryan Pandey**, currently pursuing my graduation at **MUJ (Manipal University Jaipur '28)**.  
-I am a passionate **Web Development Enthusiast** who loves building modern and interactive web applications.  
+I am **Aryan Pandey**, undergrad ** MUJ'28 **.  
+I am a passionate **Web Development Enthusiast** who loves building modern and interactive web applications.
 
-Currently, I am exploring technologies like **React, TypeScript, Tailwind CSS, and C++**, while also learning to contribute to **Open Source Projects through GitHub**.  
+Currently, I am exploring technologies like **React, TypeScript, Tailwind CSS, and C++**, while also learning to contribute to **Open Source Projects through GitHub**.
 
 I enjoy learning new technologies, improving my development skills, and collaborating with the developer community.
 
@@ -24,31 +24,42 @@ I enjoy learning new technologies, improving my development skills, and collabor
 ### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="12" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
+</div>
+
+---
+
+### 🗄️ Databases
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
 </div>
 
 ---
@@ -66,4 +77,22 @@ I enjoy learning new technologies, improving my development skills, and collabor
 </a>
 
 </div>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryancodes-03&show_icons=true&theme=tokyonight" height="150" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancodes-03&layout=compact&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aryancodes-03/aryancodes-03/output/snake.svg" alt="Snake animation" />
+</p>
 
