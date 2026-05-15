@@ -12,7 +12,7 @@ Learning to Contribute to Open Source through GitHub
 
 ### 👨‍💻 About Me
 
-I am **Aryan Pandey**, undergrad ** MUJ'28 **.  
+I am **Aryan Pandey**, undergrad **MUJ'28**.  
 I am a passionate **Web Development Enthusiast** who loves building modern and interactive web applications.
 
 Currently, I am exploring technologies like **React, TypeScript, Tailwind CSS, and C++**, while also learning to contribute to **Open Source Projects through GitHub**.
