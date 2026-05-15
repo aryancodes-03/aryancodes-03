@@ -51,16 +51,6 @@ I enjoy learning new technologies, improving my development skills, and collabor
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
 </div>
 
----
-
-### 🗄️ Databases
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
-</div>
 
 ---
 
@@ -78,17 +68,9 @@ I enjoy learning new technologies, improving my development skills, and collabor
 
 </div>
 
----
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryancodes-03&show_icons=true&theme=tokyonight" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryancodes-03&layout=compact&theme=tokyonight" height="150" />
-</p>
 
 ---
-### 🐍 Contribution Snake
+
 <p align="center"> <img src="https://raw.githubusercontent.com/aryancodes-03/aryancodes-03/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/></p>
 
